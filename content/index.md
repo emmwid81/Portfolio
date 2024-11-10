@@ -3,9 +3,9 @@ Title: Home
 Description: This is our index page.
 ---
 
-Home page
+My portfolio
 ==========================
 
-The source for this page is in `content/index.md`.
+Hej hej! Emma heter jag. Ständigt förvirrad, ständigt hungrig, ständigt på jakt efter meningen med livet.  
 
-This is a sample home page written in markdown with some frontmatter defined.
+![Me, at home.](image/my-home.png){.me}

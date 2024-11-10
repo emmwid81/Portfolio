@@ -22,11 +22,15 @@ html, body {
 body {
     display: flex;
     flex-direction: column;
-    background-color: pink;
+    background-color: rgb(187, 217, 235);
 }
 
 .main {
     flex: 1 0 auto;
+}
+
+.me {
+    width: 300px;
 }
 
 .header, .footer {
@@ -72,6 +76,7 @@ body {
     display: flex;
     justify-content: space-between;
     border-top: 1px solid #222;
+    padding: 2em;
 }
 
 .footer a {
