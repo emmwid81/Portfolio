@@ -17,6 +17,8 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'index';
 @import 'header';
 @import 'navigation';
+@import 'technology';
+@import 'container';
 @import 'footer';
 
 html {
@@ -27,44 +29,11 @@ p {
   font-size: 1em;
 }
 
+
+@import 'technology';
+
 @media (min-width: 64em) {
   html {
     font-size: 112.5%;
   }
-}
-
-body {
-  background-color: $background-color;
-  line-height: 1.4;
-}
-
-p {
-  /*font-size: 1.25em;*/
-  margin-bottom: 1.75rem;
-}
-
-* {
-  color: $font-color;
-}
-
-* {
-  font-family: 'Baskerville', sans-serif;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Libre Baskerville', sans-serif;
-}
-
-h1 {
-  font-size: 2.8em;
-  margin-bottom: 3.5rem;
-}
-
-.main {
-  width: 50%;
 }
