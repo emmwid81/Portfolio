@@ -1,6 +1,7 @@
 ---
 Title: Home
 Description: This is our index page.
+Icon: fa-solid fa-house
 ---
 
 My portfolio

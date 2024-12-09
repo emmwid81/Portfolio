@@ -1,0 +1,39 @@
+@use 'variables' as * with (
+  $font-alternative-color: #53ab6c,
+  $font-color: rgb(237, 231, 231),
+
+  $head-foot-border: #574035,
+  $head-foot-background: #360909,
+  $main-background: #020704,
+  $body: #242323,
+  $accent-color: #a42727,
+);
+
+@use '../../node_modules/normalize.css/normalize';
+
+@use 'blockquotes';
+@use 'code';
+@use 'mobile-menu';
+
+@use 'about';
+@use 'header';
+@use 'navigation';
+@use 'technology';
+@use 'container';
+@use 'test';
+@use 'typography';
+
+// @use url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+// @import 'variables-dark';
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+
+@media (min-width: 64em) {
+  html {
+    font-size: 112.5%;
+  }
+}

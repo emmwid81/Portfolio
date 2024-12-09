@@ -1,4 +1,39 @@
+@use 'variables' as *;
+// @import 'variables';
+
 .site-header img {
   max-width: 100%;
+  border-radius: 15%;
 }
 
+.site-header {
+  display: flex;
+  flex-direction: row;
+}
+
+.header {
+  padding: 2em;
+  background-color: $head-foot-background;
+  color: $font-alternative-color;
+  border-bottom: 4px solid $head-foot-border;
+}
+
+.title {
+  color: $font-alternative-color;
+  padding: 1em;
+}
+
+.header.a,
+a:visited {
+  color: $font-alternative-color;
+}
+
+.active {
+  background-color: $accent-color;
+}
+
+// $head-foot-background: #66503D;
+// $head-foot-border: #b68f70;
+// $main-background: #92cdd7;
+// $main-border: #3F8591;
+// $accent-color: #E57316;
