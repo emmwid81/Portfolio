@@ -48,6 +48,8 @@ h1 {
   padding: 4em;
   width: 64em;
   margin: 1.96rem auto;
+  max-width: 64ch;
+
   // border: 6px solid variables.$lt-border;
 }
 
@@ -69,4 +71,9 @@ html {
 .social {
   font-size: 3rem;
 }
-  
+
+@media screen and (max-width: 960px) {
+    .main {
+        width: auto;
+    }
+}
