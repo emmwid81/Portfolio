@@ -8,7 +8,7 @@
             {{ content }}
             {# {{ dump(meta) }} #}
             {% for tech in meta.Techs %}
-            <div class="box {{ tech.class }}"">
+            <div class="box {{ tech.class }}">
                 <a href="{{ base_url }}/technology/{{ tech.class }}">
                     <h2>{{ tech.name }}</h2>
                 </a>

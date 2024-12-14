@@ -1,6 +1,7 @@
 ---
 Title: Test
 Description: Sida för att testa ex responsivitet
+Template: article
 ---
 <div class="article">
 <div class="Ett"><p class="old-fashioned">
@@ -21,3 +22,27 @@ Nästa hyss han gjorde var när han i grönsakssoppan dök på huvet ner og sen 
 
 <div class="Fyra"></div>
 </div>
+
+<a href="%base_url%/image/my-home.png" target="_blank">
+    <picture>
+        <source media="(min-width: 668px)" srcset="%base_url%/image/my-home.png">
+        <img src="%base_url%/image/my-home.png&w=667" alt="Me in my home.">
+    </picture>
+</a>
+
+![Leaf](%assets_url%/img/leaf_256x256.png)
+
+![Leaf](image/leaf_256x256.png)
+
+![Leaf](image/leaf_256x256.png?h=250&w=50&stretch)
+
+![Leaf](image/leaf_256x256.png?h=250&w=50&crop-to-fit)
+
+![Leaf](image/leaf_256x256.png?area=50,0,0,0)
+![Leaf](image/leaf_256x256.png?area=0,50,0,0)
+![Leaf](image/leaf_256x256.png?area=0,0,50,0)
+![Leaf](image/leaf_256x256.png?area=0,0,0,50)
+
+![Leaf](image/leaf_256x256.png?crop=50,50,100,100)
+
+![trains](image/train.jpg?w=960&h=960&crop-to-fit)

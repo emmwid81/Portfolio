@@ -4,3 +4,13 @@ body {
   line-height: 1.4;
   font-family: 'Libre Baskerville', sans-serif;
 }
+
+a,
+a:visited {
+  color: $font-alternative-color;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 16px;
+}

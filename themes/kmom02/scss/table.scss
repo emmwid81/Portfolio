@@ -1,0 +1,30 @@
+@use 'variables' as *;
+
+.load {
+  border: 1px solid $font-color;
+  background-color: $font-alternative-color;
+  margin: 1em;
+}
+
+.load th,
+.load td,
+.load tr {
+  border: 1px solid $font-color;
+}
+
+.load th {
+  background-color: $font-color;
+  color: $font-alternative-color;
+}
+
+.tables {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 960px) {
+  .tables {
+    flex-direction: column;
+  }
+}
