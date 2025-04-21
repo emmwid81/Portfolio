@@ -3,20 +3,19 @@
         <div class="trashpanda">
             <a href="{{ base_url }}">
                 {% if config.session.theme == "dark" %}
-                    <img src="{{ base_url }}/{{ pages["_meta"].meta.Logonight|url }}" alt="" />
+                    <img src="{{ base_url }}/{{ pages["_meta"].meta.Logonight|url }}" alt="Nocturnal Trash Panda" />
                 {% else %}
-                    <img src="{{ base_url }}/{{ pages["_meta"].meta.Logoday|url }}" alt="" />
+                    <img src="{{ base_url }}/{{ pages["_meta"].meta.Logoday|url }}" alt="Diligent Dayworking Panda" />
                 {% endif %}
             </a>
         </div>
         <div class="title" {{ pages["_meta"].meta.tagline ? ' class="tagline"' }}>
             <a href="{{ base_url }}">
-                <h1>{{ site_title }}</h1>
-                {{ pages["_meta"].meta.tagline|markdown }}
+                <h1>{{ site_title }}</h1> {{ pages["_meta"].meta.tagline|markdown }}
             </a>
         </div>
         <a class="nav-toggle" id="nav-toggle" title="Toggle Menu" role="button" aria-controls="nav" aria-expanded="false"
-            tabindex="1">
+            tabindex="0">
             <i class="fa fa-bars" aria-hidden="true" id="toggler"></i>
             <span class="sr-only">Toggle Menu</span>
         </a>

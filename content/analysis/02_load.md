@@ -2,6 +2,7 @@
 Title: 02_load.md
 Description: Load time analysis
 ---
+[index](../analysis)
 
 Analys av tre webbplatsers laddningstider.
 =======================
@@ -747,3 +748,5 @@ Referenser
 -----------------------
 
 Rapport författad och sammanställd av Emma Widengård
+
+[Nästa analys](./03_design_principles)

@@ -32,7 +32,6 @@ Photos:
       alt: Blurry trains
 ---
 
-Mitt galleri
-==========================
+## Mitt galleri
 
-#### Med tåg till Grekland 2023
+### Med tåg till Grekland 2023

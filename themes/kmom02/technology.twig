@@ -4,6 +4,16 @@
     {% include 'incl/nav.twig' %}
 
     <div class="main tech" role="main">
+        <nav id="nav" class="" role="navigation">
+            <ul>
+                {% for page in pages("technology") %}
+                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                {% endfor %}
+              <li><a href="#">Guide</a></li>
+              <li><a href="#">Design med HTML5 och CSS3</a></li>
+              <li><a href="#">Detaljer</a></li>
+            </ul>
+          </nav>
         <aside class="menu">
             <h2>Meny</h2>
 

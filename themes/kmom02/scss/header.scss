@@ -2,7 +2,7 @@
 // @import 'variables';
 
 .site-header img {
-  max-width: 100%;
+  max-width: 80%;
   border-radius: 15%;
 }
 
@@ -14,22 +14,28 @@
 .header {
   padding: 2em;
   background-color: $head-foot-background;
-  color: $font-alternative-color;
-  border-bottom: 4px solid $head-foot-border;
+  color: $head-foot-link;
+  border-bottom: 12px solid $head-foot-border;
 }
 
 .title {
-  color: $font-alternative-color;
+  color: $head-foot-link;
   padding: 1em;
 }
 
-.header.a,
-a:visited {
-  color: $font-alternative-color;
+.title a,
+.title a:visited,
+.title h1,
+.title p {
+  color: $head-foot-link;
 }
 
 .active {
   background-color: $accent-color;
+}
+
+.active a {
+  color: $accent-text;
 }
 
 @media (max-width: 767px) {

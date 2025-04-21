@@ -1,20 +1,22 @@
 @use 'variables' as *;
 
 .load {
-  border: 1px solid $font-color;
-  background-color: $font-alternative-color;
+  border: 1px solid #333;
+  background-color: rgb(237, 231, 231);
+  color: #333;
   margin: 1em;
 }
 
 .load th,
 .load td,
 .load tr {
-  border: 1px solid $font-color;
+  border: 1px solid #333;
+  color: #333;
 }
 
 .load th {
-  background-color: $font-color;
-  color: $font-alternative-color;
+  background-color: rgb(237, 231, 231);
+  color: #333;
 }
 
 .tables {

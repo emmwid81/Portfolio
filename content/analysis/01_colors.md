@@ -2,6 +2,7 @@
 Title: 01_colors.md
 Description: Color analysis
 ---
+[index](../analysis)
 
 Analys av tre webbplatsers färgval.
 ==================
@@ -124,3 +125,5 @@ Jag har vid ett par tillfällen läst om både färglära och ett par typsnitt p
 redovisa källor/referenser, så jag noterade inte vilka. Det får jag göra bättre till nästa gång.
 
 Emma Widengård
+
+[Nästa analys](./02_load)

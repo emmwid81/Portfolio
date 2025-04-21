@@ -1,12 +1,14 @@
 @use 'variables' as * with (
-  $font-alternative-color: #53ab6c,
+  $head-foot-link: #53ab6c,
+  $main-link: #53ab6c,
   $font-color: rgb(237, 231, 231),
 
-  $head-foot-border: #574035,
-  $head-foot-background: #360909,
-  $main-background: #020704,
-  $body: #242323,
+  $head-foot-border: #515151,
+  $head-foot-background: #0f0f0f,
+  $main-background: #2a2d2b,
+  $body: #515151,
   $accent-color: #a42727,
+  $accent-text: #FEFFCC,
 );
 
 @use '../../node_modules/normalize.css/normalize';

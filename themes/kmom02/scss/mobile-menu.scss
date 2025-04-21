@@ -1,3 +1,5 @@
+@use 'variables' as *;
+
 .slide {
   overflow-y: hidden !important;
   transition: height 0.5s ease-in !important;
@@ -16,7 +18,7 @@
 
 .nav a,
 .nav-toggle {
-  color: rgb(255, 255, 255);
+  color: $head-foot-link;
   text-decoration: none;
 }
 
