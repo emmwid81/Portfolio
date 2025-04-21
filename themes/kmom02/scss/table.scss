@@ -2,8 +2,7 @@
 
 .load {
   border: 1px solid #333;
-  background-color: rgb(237, 231, 231);
-  color: #333;
+  background-color: #fff;
   margin: 1em;
 }
 
@@ -14,15 +13,31 @@
   color: #333;
 }
 
-.load th {
-  background-color: rgb(237, 231, 231);
+.plain {
+  background-color: #fff;
   color: #333;
+  border: 1px solid #333;
 }
 
 .tables {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
+
+td.red {
+    background-color: #B30000;
+    color: #fff;
+}
+
+td.orange {
+    background-color: orange;
+    color: #000;
+}
+
+td.green {
+    background-color: #006600;
+    color: #fff;
 }
 
 @media screen and (max-width: 960px) {

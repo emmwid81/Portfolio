@@ -10,6 +10,11 @@ body {
   color: $main-link;
 }
 
+.article a,
+.article a:visited {
+    color: $main-link;
+}
+
 figcaption {
   font-style: italic;
   // font-size: 16px;

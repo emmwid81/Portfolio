@@ -57,7 +57,7 @@ För att mäta sidornas laddningstider använde jag verktyget [Page Speed Insigh
 Resultat
 -----------------------
 
-#### Betyg Page Speed Insights: colleendarnell.com
+### Betyg Page Speed Insights: colleendarnell.com
 
 <div class="tables">
 <table class="load">
@@ -72,27 +72,27 @@ Resultat
     </tr>
     <tr>
         <td>Prestanda</td>
-        <td style="background-color: red;">49</td>
-        <td style="background-color: red;">28</td>
-        <td style="background-color: orange;">52</td>
+        <td class="red">49</td>
+        <td class="red">28</td>
+        <td class="orange">52</td>
     </tr>
     <tr>
         <td>Tillgänglighet</td>
-        <td style="background-color: limegreen;">100</td>
-        <td style="background-color: limegreen;">96</td>
-        <td style="background-color: limegreen;">100</td>
+        <td class="green">100</td>
+        <td class="green">96</td>
+        <td class="green">100</td>
     </tr>
     <tr>
         <td>Bästa metoder</td>
-        <td style="background-color: limegreen;">100</td>
-        <td style="background-color: orange;">79</td>
-        <td style="background-color: limegreen;">100</td>
+        <td class="green">100</td>
+        <td class="orange">79</td>
+        <td class="green">100</td>
     </tr>
     <tr>
         <td>SEO</td>
-        <td style="background-color: limegreen;">100</td>
-        <td style="background-color: limegreen;">100</td>
-        <td style="background-color: limegreen;">92</td>
+        <td class="green">100</td>
+        <td class="green">100</td>
+        <td class="green">92</td>
     </tr>
 </table>
 <table class="load">
@@ -107,30 +107,30 @@ Resultat
     </tr>
     <tr>
         <td>Prestanda</td>
-        <td style="background-color: orange;">69</td>
-        <td style="background-color: red;">48</td>
-        <td style="background-color: orange;">55</td>
+        <td class="orange">69</td>
+        <td class="red">48</td>
+        <td class="orange">55</td>
     </tr>
     <tr>
         <td>Tillgänglighet</td>
-        <td style="background-color: limegreen;">100</td>
-        <td style="background-color: limegreen;">96</td>
-        <td style="background-color: limegreen;">100</td>
+        <td class="green">100</td>
+        <td class="green">96</td>
+        <td class="green">100</td>
     </tr>
     <tr>
         <td>Bästa metoder</td>
-        <td style="background-color: limegreen;">100</td>
-        <td style="background-color: orange;">78</td>
-        <td style="background-color: limegreen;">100</td>
+        <td class="green">100</td>
+        <td class="orange">78</td>
+        <td class="green">100</td>
     </tr>
     <tr>
         <td>SEO</td>
-        <td style="background-color: limegreen;">100</td>
-        <td style="background-color: limegreen;">100</td>
-        <td style="background-color: limegreen;">92</td>
+        <td class="green">100</td>
+        <td class="green">100</td>
+        <td class="green">92</td>
     </tr>
 </table>
-<table class="load">
+<table class="load plain">
     <tr>
         <th colspan="4">colleendarnell.com</th>
     </tr>
@@ -165,7 +165,7 @@ Colleen Darnells sidor får bra betyg i både tillgänglighet och SEO över alla
 
 ***
 
-#### Betyg Page Speed Insights: stephenfry.com
+### Betyg Page Speed Insights: stephenfry.com
 
 <div class="tables">
 <table class="load">
@@ -180,27 +180,27 @@ Colleen Darnells sidor får bra betyg i både tillgänglighet och SEO över alla
     </tr>
     <tr>
         <td>Prestanda</td>
-        <td style="background-color: red;">43</td>
-        <td style="background-color: orange;">64</td>
-        <td style="background-color: orange;">64</td>
+        <td class="red">43</td>
+        <td class="orange">64</td>
+        <td class="orange">64</td>
     </tr>
     <tr>
         <td>Tillgänglighet</td>
-        <td style="background-color: orange;">88</td>
-        <td style="background-color: limegreen;">92</td>
-        <td style="background-color: limegreen;">92</td>
+        <td class="orange">88</td>
+        <td class="green">92</td>
+        <td class="green">92</td>
     </tr>
     <tr>
         <td>Bästa metoder</td>
-        <td style="background-color: limegreen;">93</td>
-        <td style="background-color: orange;">71</td>
-        <td style="background-color: limegreen;">93</td>
+        <td class="green">93</td>
+        <td class="orange">71</td>
+        <td class="green">93</td>
     </tr>
     <tr>
         <td>SEO</td>
-        <td style="background-color: limegreen;">92</td>
-        <td style="background-color: limegreen;">92</td>
-        <td style="background-color: limegreen;">92</td>
+        <td class="green">92</td>
+        <td class="green">92</td>
+        <td class="green">92</td>
     </tr>
 </table>
 <table class="load">
@@ -215,30 +215,30 @@ Colleen Darnells sidor får bra betyg i både tillgänglighet och SEO över alla
     </tr>
     <tr>
         <td>Prestanda</td>
-        <td style="background-color: orange;">80</td>
-        <td style="background-color: limegreen;">92</td>
-        <td style="background-color: limegreen;">90</td>
+        <td class="orange">80</td>
+        <td class="green">92</td>
+        <td class="green">90</td>
     </tr>
     <tr>
         <td>Tillgänglighet</td>
-        <td style="background-color: orange;">88</td>
-        <td style="background-color: limegreen;">92</td>
-        <td style="background-color: limegreen;">92</td>
+        <td class="orange">88</td>
+        <td class="green">92</td>
+        <td class="green">92</td>
     </tr>
     <tr>
         <td>Bästa metoder</td>
-        <td style="background-color: limegreen;">96</td>
-        <td style="background-color: orange;">74</td>
-        <td style="background-color: limegreen;">96</td>
+        <td class="green">96</td>
+        <td class="orange">74</td>
+        <td class="green">96</td>
     </tr>
     <tr>
         <td>SEO</td>
-        <td style="background-color: limegreen;">92</td>
-        <td style="background-color: limegreen;">92</td>
-        <td style="background-color: limegreen;">92</td>
+        <td class="green">92</td>
+        <td class="green">92</td>
+        <td class="green">92</td>
     </tr>
 </table>
-<table class="load">
+<table class="load plain">
     <tr>
         <th colspan="4">stephenfry.com</th>
     </tr>
@@ -273,7 +273,7 @@ Det som mest verkar sakta ned sidorna på Stephen Fry's sidor är hans egna anno
 
 ***
 
-#### Betyg Page Speed Insights: schwarzenegger.com
+### Betyg Page Speed Insights: schwarzenegger.com
 
 <div class="tables">
 <table class="load">
@@ -288,27 +288,27 @@ Det som mest verkar sakta ned sidorna på Stephen Fry's sidor är hans egna anno
     </tr>
     <tr>
         <td>Prestanda</td>
-        <td style="background-color: red;">40</td>
-        <td style="background-color: red;">47</td>
-        <td style="background-color: orange;">61</td>
+        <td class="red">40</td>
+        <td class="red">47</td>
+        <td class="orange">61</td>
     </tr>
     <tr>
         <td>Tillgänglighet</td>
-        <td style="background-color: orange;">64</td>
-        <td style="background-color: orange;">63</td>
-        <td style="background-color: orange;">54</td>
+        <td class="orange">64</td>
+        <td class="orange">63</td>
+        <td class="orange">54</td>
     </tr>
     <tr>
         <td>Bästa metoder</td>
-        <td style="background-color: orange;">50</td>
-        <td style="background-color: orange;">54</td>
-        <td style="background-color: orange;">50</td>
+        <td class="orange">50</td>
+        <td class="orange">54</td>
+        <td class="orange">50</td>
     </tr>
     <tr>
         <td>SEO</td>
-        <td style="background-color: orange;">73</td>
-        <td style="background-color: orange;">82</td>
-        <td style="background-color: orange;">73</td>
+        <td class="orange">73</td>
+        <td class="orange">82</td>
+        <td class="orange">73</td>
     </tr>
 </table>
 <table class="load">
@@ -323,30 +323,30 @@ Det som mest verkar sakta ned sidorna på Stephen Fry's sidor är hans egna anno
     </tr>
     <tr>
         <td>Prestanda</td>
-        <td style="background-color: orange;">64</td>
-        <td style="background-color: orange;">69</td>
-        <td style="background-color: orange;">75</td>
+        <td class="orange">64</td>
+        <td class="orange">69</td>
+        <td class="orange">75</td>
     </tr>
     <tr>
         <td>Tillgänglighet</td>
-        <td style="background-color: orange;">58</td>
-        <td style="background-color: orange;">57</td>
-        <td style="background-color: orange;">54</td>
+        <td class="orange">58</td>
+        <td class="orange">57</td>
+        <td class="orange">54</td>
     </tr>
     <tr>
         <td>Bästa metoder</td>
-        <td style="background-color: orange;">52</td>
-        <td style="background-color: orange;">56</td>
-        <td style="background-color: orange;">52</td>
+        <td class="orange">52</td>
+        <td class="orange">56</td>
+        <td class="orange">52</td>
     </tr>
     <tr>
         <td>SEO</td>
-        <td style="background-color: orange;">73</td>
-        <td style="background-color: orange;">82</td>
-        <td style="background-color: orange;">73</td>
+        <td class="orange">73</td>
+        <td class="orange">82</td>
+        <td class="orange">73</td>
     </tr>
 </table>
-<table class="load">
+<table class="load plain">
     <tr>
         <th colspan="4">schwarzenegger.com</th>
     </tr>
@@ -405,7 +405,7 @@ Referenser
 </a>
 
 <div class="tables">
-<table class="load">
+<table class="load plain">
 <tr>
     <td>
         colleendarnell.com/about
@@ -442,7 +442,7 @@ Referenser
     </td>
 </tr>
 </table>
-<table class="load">
+<table class="load plain">
 <tr>
     <td>
         colleendarnell.com/media
@@ -479,7 +479,7 @@ Referenser
     </td>
 </tr>
 </table>
-<table class="load">
+<table class="load plain">
 <tr>
     <td>
         colleendarnell.com/blog
@@ -518,7 +518,7 @@ Referenser
 </table>
 </div>
 <div class="tables">
-<table class="load">
+<table class="load plain">
 <tr>
     <td>
         stephenfry.com/podcasts
@@ -555,7 +555,7 @@ Referenser
     </td>
 </tr>
 </table>
-<table class="load">
+<table class="load plain">
 <tr>
     <td>
         stephenfry.com/store
@@ -592,7 +592,7 @@ Referenser
     </td>
 </tr>
 </table>
-<table class="load">
+<table class="load plain">
 <tr>
     <td>
         stephenfry.com/events
@@ -631,7 +631,7 @@ Referenser
 </table>
 </div>
 <div class="tables">
-<table class="load">
+<table class="load plain">
 <tr>
     <td>
         schwarzenegger.com/film
@@ -668,7 +668,7 @@ Referenser
     </td>
 </tr>
 </table>
-<table class="load">
+<table class="load plain">
 <tr>
     <td>
         schwarzenegger.com/fitness
@@ -705,7 +705,7 @@ Referenser
     </td>
 </tr>
 </table>
-<table class="load">
+<table class="load plain">
 <tr>
     <td>
         schwarzenegger.com/arnoldTv
